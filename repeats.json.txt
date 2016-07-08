@@ -1,0 +1,116 @@
+[{
+    "sequence": "GATACGGTCAAT",
+		"width":12,
+    "Evalue": 2.0,
+    "coordinates":[
+        {
+           "start": 12150,
+		      "stop": 2000
+        },
+       {
+           "start": 15300,
+           "stop": 70350
+        },
+{
+           "start": 25000,
+           "stop": 70350
+        },
+{
+           "start": 28800,
+           "stop": 70350
+        }]
+	},
+{
+    "sequence": "TCCGCGGGC",
+		"width":9,
+    "Evalue": 3.2,
+    "coordinates":[
+        {
+           "start": 20150,
+		      "stop": 2000
+        },
+       {
+           "start": 35300,
+           "stop": 70350
+        },
+{
+           "start": 37000,
+           "stop": 70350
+        },
+{
+           "start": 42150,
+		      "stop": 2000
+        },
+       {
+           "start": 51300,
+           "stop": 70350
+        },
+{
+           "start": 55000,
+           "stop": 70350
+        },
+{
+           "start": 58800,
+           "stop": 70350
+        }]
+	},
+{
+    "sequence": "ATCGCTGTACATGTCA",
+		"width":16,
+    "Evalue": 0.5,
+    "coordinates":[
+        {
+           "start": 64150,
+		      "stop": 2000
+        },
+       {
+           "start": 66300,
+           "stop": 70350
+        },
+{
+           "start": 69000,
+           "stop": 70350
+        },
+{
+           "start": 71100,
+           "stop": 70350
+        }]
+	},
+{
+    "sequence": "ATATATAT",
+		"width":8,
+    "Evalue": 5.0,
+    "coordinates":[
+        {
+           "start": 76150,
+		      "stop": 2000
+        },
+       {
+           "start": 76300,
+           "stop": 70350
+        },
+{
+           "start": 77000,
+           "stop": 70350
+        },
+{
+           "start": 77800,
+           "stop": 70350
+        },
+{
+           "start": 78150,
+		      "stop": 2000
+        },
+       {
+           "start": 78300,
+           "stop": 70350
+        },
+{
+           "start": 79000,
+           "stop": 70350
+        },
+{
+           "start": 79800,
+           "stop": 70350
+        }]
+	}]
